@@ -1,0 +1,20 @@
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\bin\Debug\atividade.exe.config
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\bin\Debug\atividade.exe
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\bin\Debug\atividade.pdb
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.csproj.AssemblyReference.cache
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.Calculadora.resources
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.Properties.Resources.resources
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.csproj.GenerateResource.cache
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.csproj.CoreCompileInputs.cache
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.exe
+C:\Users\madson\OneDrive\Desktop\APRENDENDO C#\atividade\atividade\obj\Debug\atividade.pdb
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\bin\Debug\atividade.exe.config
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\bin\Debug\atividade.exe
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\bin\Debug\atividade.pdb
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.csproj.AssemblyReference.cache
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.Calculadora.resources
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.Properties.Resources.resources
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.csproj.GenerateResource.cache
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.csproj.CoreCompileInputs.cache
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.exe
+C:\Users\madson\OneDrive\Documentos\aprendendoC\atividade\atividade\obj\Debug\atividade.pdb
